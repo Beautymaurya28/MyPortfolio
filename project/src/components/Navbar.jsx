@@ -25,7 +25,7 @@ function Navbar() {
 
           <div className="flex items-center space-x-6">
             <a
-            href="/resumes/CVBeauty.pdf"
+            href="/resumes/cvbeauty.pdf"
               className="px-4 py-2 bg-white text-black font-medium rounded-lg hover:bg-gray-200 transition-colors"
             >
               View Resume
