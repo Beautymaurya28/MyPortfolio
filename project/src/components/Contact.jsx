@@ -58,7 +58,7 @@ function Contact() {
             <span className="text-gray-600">•</span>
 
             <a
-              href="/resumes/CVBeauty.pdf"
+              href="/resumes/cvbeauty.pdf"
               className="text-gray-400 hover:text-cyan-400 transition-colors"
             >
               Resume
