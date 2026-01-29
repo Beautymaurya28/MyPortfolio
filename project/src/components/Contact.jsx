@@ -7,8 +7,8 @@ function Contact() {
         </h2>
 
         <p className="text-lg text-gray-300 mb-10 max-w-2xl mx-auto">
-          Open to software development, AI-driven projects, and freelance
-          frontend work. If you’re building something meaningful, let’s talk.
+          Open to Full Stack Development, AI-driven projects, and freelance
+          frontend and backend work. If you’re building something meaningful, let’s talk.
         </p>
 
         <div className="flex flex-col items-center space-y-5 mb-14">
