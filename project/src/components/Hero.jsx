@@ -43,7 +43,7 @@ function Hero({ visibleSections }) {
         {/* CTA BUTTONS */}
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="/resumes/CVBeauty.pdf"
+            href="/resumes/cvbeauty.pdf"
             className="px-8 py-3 bg-white text-black font-semibold rounded-lg
             hover:bg-gray-200 transition-all transform hover:scale-105
             shadow-lg hover:shadow-white/20"
